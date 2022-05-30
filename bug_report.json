@@ -1,1 +1,18 @@
-
+{
+"Bug Report": "new bug report",
+	"Bug ID": 101,
+	"Bug Name": "Button SEARCH is not working", 
+	"Summary": "Nothing happens when button SEARCH is clicked",
+	"Submit Date": "11.11.2022",           
+	"Reporter": "Acelotl Grada",              
+	"Operating System": "Windows 10",
+	"Browser": "Google Chrome",     
+	"URL": "https://someaddress",        
+	"Steps to reproduce": [
+	"open https://someaddress",
+	"type name and/or last name of the author for example Stephen King", 
+	"click on the search button"
+	],
+	"Expected result": "Authors and books by them will be displayed",
+	"Actual result": "The page stays the same, nothing happens"
+}
